@@ -6,8 +6,9 @@ phases:
       - echo Nohting to do yet
 
 artifacts:
-  - index.html
-  - favicon.ico
-  - TouVangResume.pdf
-  - styles/main.css
-  - images/*
+  files:
+    - index.html
+    - favicon.ico
+    - TouVangResume.pdf
+    - styles/main.css
+    - images/*
