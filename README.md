@@ -4,7 +4,11 @@ Creating A Severless Portfolio Utilizing Awesome Tools
 This is my professional portfolio.
 It uses AWS and ReactJS.
 
-#Technology Used
+#Technologies Used
 
-GitHub
+GitHub/Git
 SSH
+HTML
+CSS
+Font Awesome
+Google Font
